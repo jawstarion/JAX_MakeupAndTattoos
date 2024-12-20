@@ -14262,7 +14262,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="bdeb668b-2477-4086-b294-8d3303076cc6" />
 					<attribute id="MaterialType" type="uint8" value="18" />
