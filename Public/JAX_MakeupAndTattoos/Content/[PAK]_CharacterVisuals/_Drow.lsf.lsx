@@ -528,6 +528,34 @@
                             <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Ears_Mesh.3" />
 							<attribute id="MapValue" type="FixedString" value="ec2b05a1-9667-43ac-8b5d-f9559d9cbab2" />
                                 </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="f7852a91-f46b-4895-afab-384352700eb9" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="f7852a91-f46b-4895-afab-384352700eb9" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="87fb6815-2d99-495f-b212-63a3b29927c1" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="87fb6815-2d99-495f-b212-63a3b29927c1" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="87fb6815-2d99-495f-b212-63a3b29927c1" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="87fb6815-2d99-495f-b212-63a3b29927c1" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_G.ELF_F_NKD_Head_G_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="bdeb668b-2477-4086-b294-8d3303076cc6" />
+                            </node>		
                             </children>
                         </node>
 						<node id="Slots">
