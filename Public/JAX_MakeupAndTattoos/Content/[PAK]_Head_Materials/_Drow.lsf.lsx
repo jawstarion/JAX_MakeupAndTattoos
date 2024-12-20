@@ -4,7 +4,7 @@
 	<region id="MaterialBank">
 		<node id="MaterialBank">
 			<children>
-		<!-- Female Start -->
+		<!-- Female and Female Strong Start -->
 			<!-- Head A -->
 				<node id="Resource"> Base
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
@@ -16645,6 +16645,7 @@
 						</node>
 					</children>
 				</node>
+		<!-- Female and Female Strong End -->
 			</children>
 		</node>
 	</region>
