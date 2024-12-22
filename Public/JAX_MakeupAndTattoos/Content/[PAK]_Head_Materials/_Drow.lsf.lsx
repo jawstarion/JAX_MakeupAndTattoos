@@ -16646,7 +16646,7 @@
 					</children>
 				</node>
 		<!-- Female and Female Strong End -->
-		<!-- Male Start-->
+		<!-- Male and Male Strong Start-->
 			<!-- Head B-->
 				<node id="Resource"> Base
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
@@ -31208,6 +31208,7 @@
 						</node>
 					</children>
 				</node>
+		<!-- Male and Male Strong End -->
 			</children>
 		</node>
 	</region>
