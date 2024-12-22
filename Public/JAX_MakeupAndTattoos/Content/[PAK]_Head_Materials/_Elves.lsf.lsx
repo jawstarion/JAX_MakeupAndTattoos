@@ -755,7 +755,7 @@
 					<attribute id="ID" type="FixedString" value="4bd2cf06-c4bc-4852-a0ec-9617f7441c9e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_A_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -1381,7 +1381,7 @@
 					<attribute id="ID" type="FixedString" value="01b3f2f3-d27b-473a-b832-e698ad664e7f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_A_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -1787,7 +1787,7 @@
 					<attribute id="ID" type="FixedString" value="5be5c248-4eb7-47d9-bfdc-50c2b533cc3b" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_A_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -2835,7 +2835,7 @@
 					<attribute id="ID" type="FixedString" value="c3e26579-deeb-47f0-b2ee-fb5f41805378" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_B_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -3461,7 +3461,7 @@
 					<attribute id="ID" type="FixedString" value="a04615cc-dd44-4eb6-8786-24756fffe37c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_B_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -3867,7 +3867,7 @@
 					<attribute id="ID" type="FixedString" value="c198f159-5dc0-45e6-8922-45289b3e9e42" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_B_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -4915,7 +4915,7 @@
 					<attribute id="ID" type="FixedString" value="fe42b7ba-f881-400f-82d5-ac291237262c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_C_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -5541,7 +5541,7 @@
 					<attribute id="ID" type="FixedString" value="529065a5-f152-45f9-9a7b-ee2816c5964b" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_C_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -5947,7 +5947,7 @@
 					<attribute id="ID" type="FixedString" value="f077b403-6ce5-4217-9fcc-498a84ba1239" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_C_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -6247,13 +6247,13 @@
 				</node>
 			<!-- Head D -->
 				<node id="Resource"> Base 
-				<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-				<attribute id="ID" type="FixedString" value="fea530fd-1586-4705-aebd-ce3a53573044" />
-				<attribute id="MaterialType" type="uint8" value="18" />
-				<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_D" />
-				<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
-				<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
-				<children>
+					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
+					<attribute id="ID" type="FixedString" value="fea530fd-1586-4705-aebd-ce3a53573044" />
+					<attribute id="MaterialType" type="uint8" value="18" />
+					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_D" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
 					<node id="ScalarParameters">
 						<attribute id="BaseValue" type="float" value="0" />
 						<attribute id="Enabled" type="bool" value="False" />
@@ -6988,14 +6988,14 @@
 						<attribute id="ParameterName" type="FixedString" value="TattooIntensity" />
 						<attribute id="Value" type="fvec4" value="0 0 0 0" />
 					</node>
-				</children>
+					</children>
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="96d7c58e-3790-4fae-9d38-73cd0272d000" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_D_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -7621,7 +7621,7 @@
 					<attribute id="ID" type="FixedString" value="9b2db6a7-b995-420f-939a-47f6c1c9b13c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_D_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -8027,7 +8027,7 @@
 					<attribute id="ID" type="FixedString" value="d2437dda-26cc-40ca-b436-eb8646a91a0e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_D_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -9075,7 +9075,7 @@
 					<attribute id="ID" type="FixedString" value="370064e1-217c-4a56-b987-11a09bea1d75" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_E_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -9701,7 +9701,7 @@
 					<attribute id="ID" type="FixedString" value="64762d48-1fc7-4c06-89b3-f5c056b3a4c8" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_E_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -10107,7 +10107,7 @@
 					<attribute id="ID" type="FixedString" value="f1ace88a-6ce4-4302-8d50-8a0ec3ef7381" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_E_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -11155,7 +11155,7 @@
 					<attribute id="ID" type="FixedString" value="93b0c79a-a200-47db-aef7-3a76810a3e07" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_F_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -11781,7 +11781,7 @@
 					<attribute id="ID" type="FixedString" value="6e5ba2ec-9d16-4215-be3a-6c2eb8fd8eac" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_F_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -12187,7 +12187,7 @@
 					<attribute id="ID" type="FixedString" value="30109e61-34d4-423a-b0d4-5ea7642c35ce" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_F_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -13235,7 +13235,7 @@
 					<attribute id="ID" type="FixedString" value="f7852a91-f46b-4895-afab-384352700eb9" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_G_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -13861,7 +13861,7 @@
 					<attribute id="ID" type="FixedString" value="87fb6815-2d99-495f-b212-63a3b29927c1" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_G_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -14267,7 +14267,7 @@
 					<attribute id="ID" type="FixedString" value="bdeb668b-2477-4086-b294-8d3303076cc6" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_G_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -15315,7 +15315,7 @@
 					<attribute id="ID" type="FixedString" value="55c209d9-e089-4705-aebc-bd15e1fded93" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_H_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -15941,7 +15941,7 @@
 					<attribute id="ID" type="FixedString" value="37035a4d-4587-4ae7-9b9c-df84d447c752" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_H_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -16347,7 +16347,7 @@
 					<attribute id="ID" type="FixedString" value="f3466a2e-f6e5-4703-85f9-da5e7ab4df4f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_F_NKD_Head_H_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -17397,7 +17397,7 @@
 					<attribute id="ID" type="FixedString" value="1b028810-558f-40af-92d5-50f93535475c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_B_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -18023,7 +18023,7 @@
 					<attribute id="ID" type="FixedString" value="541cb5c0-7ad5-4da2-9c53-6fc7a832def6" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_B_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -18429,7 +18429,7 @@
 					<attribute id="ID" type="FixedString" value="a1df8738-f1b6-4a5c-a1ac-9bf0eb135c35" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_B_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -19477,7 +19477,7 @@
 					<attribute id="ID" type="FixedString" value="c2b1686c-1bfe-4d4f-b156-e78f5dcdd5b1" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_C_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -20103,7 +20103,7 @@
 					<attribute id="ID" type="FixedString" value="05f5335f-cffb-46b0-90d5-0ec2e10e6f93" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_C_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -20509,7 +20509,7 @@
 					<attribute id="ID" type="FixedString" value="b4cca14b-8e16-49fe-aed6-d06cf7e66f84" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_C_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -21558,7 +21558,7 @@
 					<attribute id="ID" type="FixedString" value="4c0d3c51-9331-4ed9-90d1-1eecc171326a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_D_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -22184,7 +22184,7 @@
 					<attribute id="ID" type="FixedString" value="f80c9ff8-3195-4619-89c7-b3cc7bd1353e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_D_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -22590,7 +22590,7 @@
 					<attribute id="ID" type="FixedString" value="9736fd79-47b9-4d31-b468-c4cf52926bb7" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_D_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -23638,7 +23638,7 @@
 					<attribute id="ID" type="FixedString" value="bad68c54-a92d-44a5-a9ac-d051161fbef4" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_E_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -24264,7 +24264,7 @@
 					<attribute id="ID" type="FixedString" value="72995202-1cbf-4ba0-b93f-3ceac32ff425" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_E_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -24670,7 +24670,7 @@
 					<attribute id="ID" type="FixedString" value="a5fe0088-a2f5-4104-962c-b0aae02b930e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_E_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -25718,7 +25718,7 @@
 					<attribute id="ID" type="FixedString" value="2b82d455-7055-4cdc-ae43-4657c96d2819" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_F_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="ScalarParameters">
@@ -26344,7 +26344,7 @@
 					<attribute id="ID" type="FixedString" value="4d1fced9-eab0-444b-a56b-efdab81ca749" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_F_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="ScalarParameters">
@@ -26750,7 +26750,7 @@
 					<attribute id="ID" type="FixedString" value="85ea92a5-0746-4953-b3ff-129174334bf4" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_F_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<node id="ScalarParameters">
@@ -27798,7 +27798,7 @@
 					<attribute id="ID" type="FixedString" value="e69c6e65-7420-4708-a132-53a140499b1d" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_G_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -28424,7 +28424,7 @@
 					<attribute id="ID" type="FixedString" value="416f020e-bf24-46e3-ae59-f08fcefdd852" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_G_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -28830,7 +28830,7 @@
 					<attribute id="ID" type="FixedString" value="8bc54ae4-ba43-4c1e-997b-261c1d5aae24" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_G_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="ScalarParameters">
@@ -29878,7 +29878,7 @@
 					<attribute id="ID" type="FixedString" value="b4bbffc5-996a-4d82-8583-4d410a3241ba" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_H_LOD1" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD1.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
 					<children>
 						<node id="ScalarParameters">
@@ -30504,7 +30504,7 @@
 					<attribute id="ID" type="FixedString" value="56853cb4-52df-42cd-bb7f-45b42528264f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_H_LOD2" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD2.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
 					<children>
 						<node id="ScalarParameters">
@@ -30910,7 +30910,7 @@
 					<attribute id="ID" type="FixedString" value="15ae2aad-ffc3-471b-a9c8-19dcc3b1d06f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="ELF_M_NKD_Head_H_LOD4" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo_LOD4.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922156" />
 					<children>
 						<node id="ScalarParameters">
