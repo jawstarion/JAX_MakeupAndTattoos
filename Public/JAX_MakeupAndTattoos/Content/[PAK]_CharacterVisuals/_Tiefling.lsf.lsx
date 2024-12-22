@@ -318,6 +318,43 @@
                             <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="32719f5b-823c-48ad-80a5-277582e2ca13" />
                             </node>
+				<!-- Head B -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="e4736f1d-b2ff-4489-ba79-76fb61fc6fcd" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="e4736f1d-b2ff-4489-ba79-76fb61fc6fcd" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="06b504d6-3111-4384-bd8d-6e72d8368567" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="06b504d6-3111-4384-bd8d-6e72d8368567" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="f397f3fd-e4d7-4e6f-80c5-ed7346a186dc" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="f397f3fd-e4d7-4e6f-80c5-ed7346a186dc" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="f397f3fd-e4d7-4e6f-80c5-ed7346a186dc" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="f397f3fd-e4d7-4e6f-80c5-ed7346a186dc" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_B.TIF_F_NKD_Head_B_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="c4c58063-e7fe-49d7-a6cd-e4bffc3aad21" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
