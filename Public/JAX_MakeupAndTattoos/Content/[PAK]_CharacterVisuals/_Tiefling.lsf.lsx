@@ -4,7 +4,7 @@
     <region id="CharacterVisualBank">
         <node id="CharacterVisualBank">
             <children>
-				<node id="Resource">
+				<node id="Resource"> Female Asmodeus
 					<attribute id="BaseVisual" type="FixedString" value="32c30a04-896d-33fd-69eb-5c5ab5dfa284" />
 					<attribute id="BodySetVisual" type="FixedString" value="820ddd41-7946-f026-099f-7034983d50d2" />
 					<attribute id="ID" type="FixedString" value="b2a2a57a-7690-681f-ad5c-61aa4c9754db" />
@@ -279,7 +279,47 @@
 								</node>
 							</children>
 						</node>
-						<node id="RealMaterialOverrides" />
+                        <node id="RealMaterialOverrides">
+                            <children>
+				<!-- Head A -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="b221846b-8785-4fa0-913f-20410538ba6f" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="b221846b-8785-4fa0-913f-20410538ba6f" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="05e650fb-3316-4cd2-9760-f7cfba3461e8" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="05e650fb-3316-4cd2-9760-f7cfba3461e8" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="53d679ce-fa32-445d-944f-d70d71923d99" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="53d679ce-fa32-445d-944f-d70d71923d99" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="53d679ce-fa32-445d-944f-d70d71923d99" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="53d679ce-fa32-445d-944f-d70d71923d99" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Head_A.TIF_F_NKD_Head_A_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="32719f5b-823c-48ad-80a5-277582e2ca13" />
+                            </node>
+						</children>
+					</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
