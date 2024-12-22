@@ -1519,8 +1519,8 @@
 								</node>
 							</children>
 						</node>
-						<node id="RealMaterialOverrides" />
-						<children>
+                        <node id="RealMaterialOverrides">
+                            <children>
 				<!-- Head A -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Mesh.0" />
@@ -1818,6 +1818,7 @@
                             <attribute id="MapValue" type="FixedString" value="f3466a2e-f6e5-4703-85f9-da5e7ab4df4f" />
                             </node>
                             </children>
+						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
@@ -2158,8 +2159,8 @@
 								</node>
 							</children>
 						</node>
-						<node id="RealMaterialOverrides" />
-						<children>
+                        <node id="RealMaterialOverrides">
+                            <children>
 				<!-- Head A -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Mesh.0" />
@@ -2457,6 +2458,7 @@
                             <attribute id="MapValue" type="FixedString" value="f3466a2e-f6e5-4703-85f9-da5e7ab4df4f" />
                             </node>
                             </children>
+						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
@@ -2770,8 +2772,8 @@
 								</node>
 							</children>
 						</node>
-						<node id="RealMaterialOverrides" />
-						<children>
+                        <node id="RealMaterialOverrides">
+                            <children>
 				<!-- Head B -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="ELF_M_NKD_Head_B.ELF_M_NKD_Head_B_Mesh.0" />
@@ -2811,6 +2813,7 @@
                             </node>
 				<!-- Head C-->	
 						</children>
+					</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
