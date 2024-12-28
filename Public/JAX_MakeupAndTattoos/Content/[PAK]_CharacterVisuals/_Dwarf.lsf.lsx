@@ -624,6 +624,32 @@
                             <attribute id="MapKey" type="FixedString" value="DWR_F_NKD_Head_H.DWR_F_NKD_Head_H_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="ff248117-325c-4904-8a50-c298bc666493" />
                         </node>
+			<!-- Modded Heads -->
+				<!-- Toarie -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="1cbe35b9-89e1-45cb-912f-6101571a7dc2" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1cbe35b9-89e1-45cb-912f-6101571a7dc2" />		
+						</node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="93a135a2-acef-4203-bf7e-3381fe30dc46" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="93a135a2-acef-4203-bf7e-3381fe30dc46" />		
+						</node>		
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Olena.Olena_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="01230a12-4c44-4b56-80b1-26c5feed85bb" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Olena.Olena_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="01230a12-4c44-4b56-80b1-26c5feed85bb" />		
+						</node>		
                         </children>
                         </node>
 						<node id="Slots">
@@ -1147,6 +1173,32 @@
                             <attribute id="MapKey" type="FixedString" value="DWR_F_NKD_Head_H.DWR_F_NKD_Head_H_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="ff248117-325c-4904-8a50-c298bc666493" />
                         </node>
+			<!-- Modded Heads -->
+				<!-- Toarie -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="1cbe35b9-89e1-45cb-912f-6101571a7dc2" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1cbe35b9-89e1-45cb-912f-6101571a7dc2" />		
+						</node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="93a135a2-acef-4203-bf7e-3381fe30dc46" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="93a135a2-acef-4203-bf7e-3381fe30dc46" />		
+						</node>		
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Olena.Olena_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="01230a12-4c44-4b56-80b1-26c5feed85bb" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Olena.Olena_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="01230a12-4c44-4b56-80b1-26c5feed85bb" />		
+						</node>	
                         </children>
                         </node>
 						<node id="Slots">
@@ -1656,6 +1708,32 @@
                             <attribute id="MapKey" type="FixedString" value="DWR_F_NKD_Head_H.DWR_F_NKD_Head_H_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="ff248117-325c-4904-8a50-c298bc666493" />
                         </node>
+			<!-- Modded Heads -->
+				<!-- Toarie -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="1cbe35b9-89e1-45cb-912f-6101571a7dc2" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1cbe35b9-89e1-45cb-912f-6101571a7dc2" />		
+						</node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="93a135a2-acef-4203-bf7e-3381fe30dc46" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="93a135a2-acef-4203-bf7e-3381fe30dc46" />		
+						</node>		
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Olena.Olena_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="01230a12-4c44-4b56-80b1-26c5feed85bb" />		
+						</node>	
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Olena.Olena_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="01230a12-4c44-4b56-80b1-26c5feed85bb" />		
+						</node>	
                     </children>
                     </node>
 						<node id="Slots">
