@@ -458,6 +458,16 @@
                             <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="48ae6c03-f793-41f3-a18c-7a95b1f673f9" />
                             </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Opri.Opri_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Opri.Opri_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
+                            </node>
                         </children>
                         </node>
 						<node id="Slots">
@@ -919,6 +929,16 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="48ae6c03-f793-41f3-a18c-7a95b1f673f9" />
+                            </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Opri.Opri_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Opri.Opri_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
                             </node>
                             </children>
                             </node>
@@ -1447,6 +1467,16 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="48ae6c03-f793-41f3-a18c-7a95b1f673f9" />
+                            </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Opri.Opri_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Opri.Opri_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
                             </node>
                             </children>
                             </node>

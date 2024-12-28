@@ -548,6 +548,24 @@
                             <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_G.GTY_F_NKD_Head_G_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="d69b96e1-3599-4de9-8921-302e2e340462" />
                             </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Yiral.Yiral_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="67ea516c-481c-46ef-96a6-9475f993c1eb" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Yiral.Yiral_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="67ea516c-481c-46ef-96a6-9475f993c1eb" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Vaarath.Vaarath_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="250965f4-3fff-4af9-bff7-fce6c0676e0c" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Vaarath.Vaarath_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="250965f4-3fff-4af9-bff7-fce6c0676e0c" />
+                            </node>
                         </children>
                         </node>
 						<node id="Slots">
