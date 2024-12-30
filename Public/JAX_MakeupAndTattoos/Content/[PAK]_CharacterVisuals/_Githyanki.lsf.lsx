@@ -566,6 +566,22 @@
                             <attribute id="MapKey" type="FixedString" value="Vaarath.Vaarath_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="250965f4-3fff-4af9-bff7-fce6c0676e0c" />
                             </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Yiira.Yiira_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="8ffdc7b9-5d9e-4305-a567-28cf4bc7afa3" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Yiira.Yiira_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8ffdc7b9-5d9e-4305-a567-28cf4bc7afa3" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Igre.Igre_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="f9431695-3279-411f-a379-00e786e89329" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Igre.Igre_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f9431695-3279-411f-a379-00e786e89329" />
+                            </node>
                         </children>
                         </node>
 						<node id="Slots">
@@ -1208,6 +1224,16 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_I.GTY_M_NKD_Head_I_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="4eaac135-842e-48b2-92d8-2d9aeb3c52f3" />
+                            </node>
+			<!-- Modded -->
+				<!-- Toarie -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Zerth.Zerth_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="3e06d991-cf65-4d50-998c-2983c2c524a4" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Zerth.Zerth_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="3e06d991-cf65-4d50-998c-2983c2c524a4" />
                             </node>
                         </children>
                         </node>

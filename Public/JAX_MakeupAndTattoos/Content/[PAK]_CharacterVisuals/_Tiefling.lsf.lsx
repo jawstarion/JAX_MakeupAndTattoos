@@ -5050,6 +5050,30 @@
                             <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArttjuTiefling.ArttjuTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="9e7a3ab8-3f5c-47dc-a1de-1e182a511b87" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArttjuTiefling.ArttjuTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="9e7a3ab8-3f5c-47dc-a1de-1e182a511b87" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RiverTiefling.RiverTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="611341e3-5a2c-4616-b32a-fa15a70cf4d6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RiverTiefling.RiverTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="611341e3-5a2c-4616-b32a-fa15a70cf4d6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Edgar.Edgar_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="50b29a07-ff92-4138-babb-f8276bc68337" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Edgar.Edgar_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="50b29a07-ff92-4138-babb-f8276bc68337" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
