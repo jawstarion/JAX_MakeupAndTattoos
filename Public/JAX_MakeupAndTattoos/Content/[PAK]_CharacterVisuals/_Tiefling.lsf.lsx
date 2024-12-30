@@ -3907,6 +3907,56 @@
                             <attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Head_F.TIF_M_NKD_Head_F_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="974de221-6c0c-48b4-a8d2-3af022e6d90c" />
                             </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kai.Kai_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="4599b3f4-76c2-42a0-a53c-fca1b0b865a6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kai.Kai_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="4599b3f4-76c2-42a0-a53c-fca1b0b865a6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaimon.Kaimon_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="e03f902c-0d7e-407f-877a-b3ef0ebbe042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaimon.Kaimon_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="e03f902c-0d7e-407f-877a-b3ef0ebbe042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArmoTiefling.ArmoTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="676fe1c5-dd44-46e6-be5a-0a24c2317f6d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArmoTiefling.ArmoTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="676fe1c5-dd44-46e6-be5a-0a24c2317f6d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling.TeemuTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ebf921de-e579-4e26-858e-936a84d2f18b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling.TeemuTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ebf921de-e579-4e26-858e-936a84d2f18b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling2.TeemuTiefling2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="21b8d347-4dfd-4f40-9a24-347895ffa673" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling2.TeemuTiefling2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="21b8d347-4dfd-4f40-9a24-347895ffa673" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -4389,6 +4439,56 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Head_F.TIF_M_NKD_Head_F_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="974de221-6c0c-48b4-a8d2-3af022e6d90c" />
+                            </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kai.Kai_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="4599b3f4-76c2-42a0-a53c-fca1b0b865a6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kai.Kai_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="4599b3f4-76c2-42a0-a53c-fca1b0b865a6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaimon.Kaimon_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="e03f902c-0d7e-407f-877a-b3ef0ebbe042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaimon.Kaimon_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="e03f902c-0d7e-407f-877a-b3ef0ebbe042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArmoTiefling.ArmoTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="676fe1c5-dd44-46e6-be5a-0a24c2317f6d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArmoTiefling.ArmoTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="676fe1c5-dd44-46e6-be5a-0a24c2317f6d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling.TeemuTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ebf921de-e579-4e26-858e-936a84d2f18b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling.TeemuTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ebf921de-e579-4e26-858e-936a84d2f18b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling2.TeemuTiefling2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="21b8d347-4dfd-4f40-9a24-347895ffa673" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling2.TeemuTiefling2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="21b8d347-4dfd-4f40-9a24-347895ffa673" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
                             </node>
 						</children>
 					</node>
@@ -4899,6 +4999,56 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Head_F.TIF_M_NKD_Head_F_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="974de221-6c0c-48b4-a8d2-3af022e6d90c" />
+                            </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kai.Kai_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="4599b3f4-76c2-42a0-a53c-fca1b0b865a6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kai.Kai_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="4599b3f4-76c2-42a0-a53c-fca1b0b865a6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaimon.Kaimon_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="e03f902c-0d7e-407f-877a-b3ef0ebbe042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Kaimon.Kaimon_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="e03f902c-0d7e-407f-877a-b3ef0ebbe042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArmoTiefling.ArmoTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="676fe1c5-dd44-46e6-be5a-0a24c2317f6d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArmoTiefling.ArmoTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="676fe1c5-dd44-46e6-be5a-0a24c2317f6d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling.TeemuTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ebf921de-e579-4e26-858e-936a84d2f18b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling.TeemuTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ebf921de-e579-4e26-858e-936a84d2f18b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling2.TeemuTiefling2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="21b8d347-4dfd-4f40-9a24-347895ffa673" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TeemuTiefling2.TeemuTiefling2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="21b8d347-4dfd-4f40-9a24-347895ffa673" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
                             </node>
 						</children>
 					</node>
