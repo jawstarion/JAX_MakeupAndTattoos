@@ -828,6 +828,79 @@
                             <attribute id="MapKey" type="FixedString" value="Zoja.Zoja_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="14cbd9dd-bcac-49fa-9d09-e62ff0b755de" />
                             </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_Daphne.HUM_F_Head_Daphne_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="718fba84-8cd6-4466-829f-a62bcb3ed389" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_Daphne.HUM_F_Head_Daphne_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="718fba84-8cd6-4466-829f-a62bcb3ed389" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_A1.HUM_F_Head_A1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f0b4ae60-2cf5-43df-8788-81f0ee23c983" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_A1.HUM_F_Head_A1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f0b4ae60-2cf5-43df-8788-81f0ee23c983" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_A2.HUM_F_Head_A2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="5e03ecbb-c4ed-456a-b86e-69fa2dd70e44" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_A2.HUM_F_Head_A2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="5e03ecbb-c4ed-456a-b86e-69fa2dd70e44" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_B1.HUM_F_Head_B1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="8913d2ad-ae5c-4fc4-8843-88c74fd4aed0" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_B1.HUM_F_Head_B1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8913d2ad-ae5c-4fc4-8843-88c74fd4aed0" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_B2.HUM_F_Head_B2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f7494e5b-9c3c-4a7e-ae6c-46873b7359e8" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_B2.HUM_F_Head_B2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f7494e5b-9c3c-4a7e-ae6c-46873b7359e8" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_C1.HUM_F_Head_C1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="273cb623-eca5-4e13-851f-91ebb5f62e30" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_C1.HUM_F_Head_C1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="273cb623-eca5-4e13-851f-91ebb5f62e30" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_F1.HUM_F_Head_F1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="d6d2893a-31be-48f8-83b3-9f843ecfb504" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_F1.HUM_F_Head_F1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="d6d2893a-31be-48f8-83b3-9f843ecfb504" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_G1.HUM_F_Head_G1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a392fe4b-a88b-476f-a8fc-aa1343fd25ba" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Head_G1.HUM_F_Head_G1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a392fe4b-a88b-476f-a8fc-aa1343fd25ba" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Minerva.HUM_F_Minerva_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="21a8d6ec-88b4-4498-9329-709c6281ae44" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_F_Minerva.HUM_F_Minerva_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="21a8d6ec-88b4-4498-9329-709c6281ae44" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -2240,6 +2313,23 @@
                             <attribute id="MapKey" type="FixedString" value="River.River3_Human_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="8dc3b9f8-b98d-4d64-af60-b0142c596140" />
                             </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_M_Head_G1.HUM_M_Head_G1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="baceecad-577d-4a18-86f7-43af32a10c1a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_M_Head_G1.HUM_M_Head_G1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="baceecad-577d-4a18-86f7-43af32a10c1a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_M_Kael.HUM_M_Kael_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="864ca4bd-b242-4614-bbdf-d46e92292757" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_M_Kael.HUM_M_Kael_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="864ca4bd-b242-4614-bbdf-d46e92292757" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -2845,6 +2935,15 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="CaioB4.CaioB4_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="49292059-5372-4c6a-b17e-d7b59523545f" />
+                            </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="HUM_MS_Dorian.HUM_MS_Dorian_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="baceecad-577d-4a18-86f7-43af32a10c1a" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="HUM_MS_Dorian.HUM_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="baceecad-577d-4a18-86f7-43af32a10c1a" />
                             </node>
 						</children>
 					</node>

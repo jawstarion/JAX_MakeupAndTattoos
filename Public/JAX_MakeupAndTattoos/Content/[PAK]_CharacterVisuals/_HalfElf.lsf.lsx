@@ -7671,6 +7671,15 @@
                             <attribute id="MapKey" type="FixedString" value="Petric.Petric_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="dbd892b3-5949-4e4a-aa2b-b9ab008f5ad2" />
                             </node>
+                <!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>                            
                             </children>
                         </node>
 						<node id="Slots">
@@ -8285,6 +8294,15 @@
                             <attribute id="MapKey" type="FixedString" value="Petric.Petric_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="dbd892b3-5949-4e4a-aa2b-b9ab008f5ad2" />
                             </node>
+                <!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>
                             </children>
                         </node>
 						<node id="Slots">
@@ -8775,6 +8793,15 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="Petric.Petric_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="dbd892b3-5949-4e4a-aa2b-b9ab008f5ad2" />
+                            </node>
+                <!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
                             </node>
                             </children>
                         </node>

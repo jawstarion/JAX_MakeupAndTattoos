@@ -609,6 +609,79 @@
                             <attribute id="MapKey" type="FixedString" value="SaelwarisTiefling.SaelwarisTiefling_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="38449f2d-aa15-4988-ae59-12c6a5162119" />
                             </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_Daphne.TIF_F_Head_Daphne_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c387feb2-6eeb-4d9c-b328-e6a4f6da95fd" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_Daphne.TIF_F_Head_Daphne_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c387feb2-6eeb-4d9c-b328-e6a4f6da95fd" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_A1.TIF_F_Head_A1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="65ec586f-5e26-4d14-9fa7-1a605541ac40" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_A1.TIF_F_Head_A1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="65ec586f-5e26-4d14-9fa7-1a605541ac40" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_B1.TIF_F_Head_B1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="fe89ca6f-bd1c-4a58-b451-d41a9d899b24" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_B1.TIF_F_Head_B1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="fe89ca6f-bd1c-4a58-b451-d41a9d899b24" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_C1.TIF_F_Head_C1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="977f3997-9d8b-4efc-83da-b6d6ad0adb0e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_C1.TIF_F_Head_C1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="977f3997-9d8b-4efc-83da-b6d6ad0adb0e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E1.TIF_F_Head_E1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="fb087ffa-b739-4fbf-95d8-0c63ff3ed13d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E1.TIF_F_Head_E1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="fb087ffa-b739-4fbf-95d8-0c63ff3ed13d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E2.TIF_F_Head_E2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c0306739-d6db-46e4-a0a9-b2f545c65f05" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E2.TIF_F_Head_E2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c0306739-d6db-46e4-a0a9-b2f545c65f05" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E3.TIF_F_Head_E3_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="8f766a64-417c-4e87-96af-16474122e830" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E3.TIF_F_Head_E3_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8f766a64-417c-4e87-96af-16474122e830" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_F1.TIF_F_Head_F1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="8c2d6653-5fe6-48dc-a6ec-0a893add91f7" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_F1.TIF_F_Head_F1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8c2d6653-5fe6-48dc-a6ec-0a893add91f7" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -1223,6 +1296,79 @@
                             <attribute id="MapKey" type="FixedString" value="SaelwarisTiefling.SaelwarisTiefling_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="38449f2d-aa15-4988-ae59-12c6a5162119" />
                             </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_Daphne.TIF_F_Head_Daphne_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c387feb2-6eeb-4d9c-b328-e6a4f6da95fd" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_Daphne.TIF_F_Head_Daphne_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c387feb2-6eeb-4d9c-b328-e6a4f6da95fd" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_A1.TIF_F_Head_A1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="65ec586f-5e26-4d14-9fa7-1a605541ac40" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_A1.TIF_F_Head_A1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="65ec586f-5e26-4d14-9fa7-1a605541ac40" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_B1.TIF_F_Head_B1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="fe89ca6f-bd1c-4a58-b451-d41a9d899b24" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_B1.TIF_F_Head_B1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="fe89ca6f-bd1c-4a58-b451-d41a9d899b24" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_C1.TIF_F_Head_C1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="977f3997-9d8b-4efc-83da-b6d6ad0adb0e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_C1.TIF_F_Head_C1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="977f3997-9d8b-4efc-83da-b6d6ad0adb0e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E1.TIF_F_Head_E1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="fb087ffa-b739-4fbf-95d8-0c63ff3ed13d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E1.TIF_F_Head_E1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="fb087ffa-b739-4fbf-95d8-0c63ff3ed13d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E2.TIF_F_Head_E2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c0306739-d6db-46e4-a0a9-b2f545c65f05" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E2.TIF_F_Head_E2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c0306739-d6db-46e4-a0a9-b2f545c65f05" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E3.TIF_F_Head_E3_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="8f766a64-417c-4e87-96af-16474122e830" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E3.TIF_F_Head_E3_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8f766a64-417c-4e87-96af-16474122e830" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_F1.TIF_F_Head_F1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="8c2d6653-5fe6-48dc-a6ec-0a893add91f7" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_F1.TIF_F_Head_F1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8c2d6653-5fe6-48dc-a6ec-0a893add91f7" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -1809,6 +1955,79 @@
                             <attribute id="MapKey" type="FixedString" value="SaelwarisTiefling.SaelwarisTiefling_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="38449f2d-aa15-4988-ae59-12c6a5162119" />
                             </node>	
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_Daphne.TIF_F_Head_Daphne_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c387feb2-6eeb-4d9c-b328-e6a4f6da95fd" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_Daphne.TIF_F_Head_Daphne_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c387feb2-6eeb-4d9c-b328-e6a4f6da95fd" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_A1.TIF_F_Head_A1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="65ec586f-5e26-4d14-9fa7-1a605541ac40" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_A1.TIF_F_Head_A1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="65ec586f-5e26-4d14-9fa7-1a605541ac40" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_B1.TIF_F_Head_B1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="fe89ca6f-bd1c-4a58-b451-d41a9d899b24" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_B1.TIF_F_Head_B1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="fe89ca6f-bd1c-4a58-b451-d41a9d899b24" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_C1.TIF_F_Head_C1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="977f3997-9d8b-4efc-83da-b6d6ad0adb0e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_C1.TIF_F_Head_C1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="977f3997-9d8b-4efc-83da-b6d6ad0adb0e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E1.TIF_F_Head_E1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="fb087ffa-b739-4fbf-95d8-0c63ff3ed13d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E1.TIF_F_Head_E1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="fb087ffa-b739-4fbf-95d8-0c63ff3ed13d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E2.TIF_F_Head_E2_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c0306739-d6db-46e4-a0a9-b2f545c65f05" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E2.TIF_F_Head_E2_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c0306739-d6db-46e4-a0a9-b2f545c65f05" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E3.TIF_F_Head_E3_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="8f766a64-417c-4e87-96af-16474122e830" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_E3.TIF_F_Head_E3_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8f766a64-417c-4e87-96af-16474122e830" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_F1.TIF_F_Head_F1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="8c2d6653-5fe6-48dc-a6ec-0a893add91f7" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Head_F1.TIF_F_Head_F1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="8c2d6653-5fe6-48dc-a6ec-0a893add91f7" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -3957,6 +4176,23 @@
                             <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
                             </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Head_C1.TIF_M_Head_C1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a9d50afc-3b1d-4f2a-b797-6943c90c1fda" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Head_C1.TIF_M_Head_C1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a9d50afc-3b1d-4f2a-b797-6943c90c1fda" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -4489,6 +4725,23 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="PetricTiefling.PetricTiefling_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="e1d5fc3b-f05a-4a1c-b7a0-d931397b2918" />
+                            </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Head_C1.TIF_M_Head_C1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a9d50afc-3b1d-4f2a-b797-6943c90c1fda" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Head_C1.TIF_M_Head_C1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a9d50afc-3b1d-4f2a-b797-6943c90c1fda" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
                             </node>
 						</children>
 					</node>
@@ -5074,6 +5327,23 @@
                             <attribute id="MapKey" type="FixedString" value="Edgar.Edgar_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="50b29a07-ff92-4138-babb-f8276bc68337" />
                             </node>
+				<!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Head_C1.TIF_M_Head_C1_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a9d50afc-3b1d-4f2a-b797-6943c90c1fda" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Head_C1.TIF_M_Head_C1_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a9d50afc-3b1d-4f2a-b797-6943c90c1fda" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -5550,6 +5820,16 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Head_F_Remap.TIF_MS_NKD_Head_F_Remap_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="974de221-6c0c-48b4-a8d2-3af022e6d90c" />
+                            </node>
+			<!-- Modded -->
+				<!-- Vemperen -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_MS_Dorian.TIF_MS_Dorian_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="6c2edbf0-5aff-4b09-bee9-ab7fc862f71b" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_MS_Dorian.TIF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="6c2edbf0-5aff-4b09-bee9-ab7fc862f71b" />
                             </node>
 						</children>
 					</node>
@@ -6054,6 +6334,16 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Head_F_Remap.TIF_MS_NKD_Head_F_Remap_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="974de221-6c0c-48b4-a8d2-3af022e6d90c" />
+                            </node>
+			<!-- Modded -->
+				<!-- Vemperen -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_MS_Dorian.TIF_MS_Dorian_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="6c2edbf0-5aff-4b09-bee9-ab7fc862f71b" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_MS_Dorian.TIF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="6c2edbf0-5aff-4b09-bee9-ab7fc862f71b" />
                             </node>
 						</children>
 					</node>
@@ -6571,6 +6861,16 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Head_F_Remap.TIF_MS_NKD_Head_F_Remap_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="974de221-6c0c-48b4-a8d2-3af022e6d90c" />
+                            </node>
+			<!-- Modded -->
+				<!-- Vemperen -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="TIF_MS_Dorian.TIF_MS_Dorian_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="6c2edbf0-5aff-4b09-bee9-ab7fc862f71b" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="TIF_MS_Dorian.TIF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="6c2edbf0-5aff-4b09-bee9-ab7fc862f71b" />
                             </node>
 						</children>
 					</node>

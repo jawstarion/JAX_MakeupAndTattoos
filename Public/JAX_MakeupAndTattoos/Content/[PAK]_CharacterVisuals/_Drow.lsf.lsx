@@ -5739,8 +5739,8 @@
                             <attribute id="MapKey" type="FixedString" value="ELF_MS_NKD_Head_H_Remap.ELF_MS_NKD_Head_H_Remap_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="15ae2aad-ffc3-471b-a9c8-19dcc3b1d06f" />
                             </node>
-				<!-- Modded -->
-					<!-- Toarie -->
+			<!-- Modded -->
+				<!-- Toarie -->
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="Efraim.Efraim_Mesh.0" />
                             <attribute id="MapValue" type="FixedString" value="3714007a-0b92-4efd-9e0a-1c49b867d415" />
@@ -5756,6 +5756,15 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="Petric.Petric_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="dbd892b3-5949-4e4a-aa2b-b9ab008f5ad2" />
+                            </node>
+                <!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
                             </node>
 						</children>
 					</node>
@@ -6358,6 +6367,15 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="Petric.Petric_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="dbd892b3-5949-4e4a-aa2b-b9ab008f5ad2" />
+                            </node>
+                <!-- Vemperen -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
                             </node>
 						</children>
 					</node>
