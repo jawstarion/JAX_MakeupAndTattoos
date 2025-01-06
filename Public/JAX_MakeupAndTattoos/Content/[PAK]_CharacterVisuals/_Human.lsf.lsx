@@ -901,6 +901,39 @@
                             <attribute id="MapKey" type="FixedString" value="HUM_F_Minerva.HUM_F_Minerva_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="21a8d6ec-88b4-4498-9329-709c6281ae44" />
                             </node>
+                <!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaHUM.VisenyaHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="7cecc914-1868-4e01-ba45-62b0bac39c70" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaHUM.VisenyaHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="7cecc914-1868-4e01-ba45-62b0bac39c70" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaHUM.AeylaHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="99b44717-37b1-4358-b553-427ee6d48cad" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaHUM.AeylaHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="99b44717-37b1-4358-b553-427ee6d48cad" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaHUM.RenaesaHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="9815029f-01e0-42a4-b346-47719aaf95a3" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaHUM.RenaesaHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="9815029f-01e0-42a4-b346-47719aaf95a3" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaHUM.FreyjaHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="4ef21370-38e1-486c-be22-e388e13a6fee" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaHUM.FreyjaHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="4ef21370-38e1-486c-be22-e388e13a6fee" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -2330,6 +2363,31 @@
                             <attribute id="MapKey" type="FixedString" value="HUM_M_Kael.HUM_M_Kael_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="864ca4bd-b242-4614-bbdf-d46e92292757" />
                             </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorHUM.AerymorHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ace37eca-c4e2-45e9-a56e-e00b514c3f26" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorHUM.AerymorHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ace37eca-c4e2-45e9-a56e-e00b514c3f26" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronHUM.AeronHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="96648b17-f690-4074-873e-2746406ebb94" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronHUM.AeronHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="96648b17-f690-4074-873e-2746406ebb94" />
+                            </node>    
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarHUM.VahaelarHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="9bd7d3e9-6f53-4c0b-92d1-3c95200801cb" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarHUM.VahaelarHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="9bd7d3e9-6f53-4c0b-92d1-3c95200801cb" />
+                            </node>         
 						</children>
 					</node>
 						<node id="Slots">
@@ -2944,6 +3002,15 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HUM_MS_Dorian.HUM_MS_Dorian_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="baceecad-577d-4a18-86f7-43af32a10c1a" />
+                            </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorHUMStrong.AerymorHUMStrong_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="49f0bbc6-2bda-48df-9281-c39e3577417b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorHUMStrong.AerymorHUMStrong_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="49f0bbc6-2bda-48df-9281-c39e3577417b" />
                             </node>
 						</children>
 					</node>

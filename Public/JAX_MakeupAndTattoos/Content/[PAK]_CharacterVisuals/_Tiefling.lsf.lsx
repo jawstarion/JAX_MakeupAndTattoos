@@ -699,6 +699,38 @@
                             <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaTIF.VisenyaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="3de69982-2571-4c10-8bf9-ec165a9bc768" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaTIF.VisenyaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="3de69982-2571-4c10-8bf9-ec165a9bc768" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaTIF.AeylaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="37397a4a-da3f-4275-9a48-1b731051dbc9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaTIF.AeylaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="37397a4a-da3f-4275-9a48-1b731051dbc9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaTIF.RenaesaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="444fe5ae-9deb-4400-9492-61feeea5cc42" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaTIF.RenaesaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="444fe5ae-9deb-4400-9492-61feeea5cc42" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaTIF.FreyjaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="5a7959d7-10c3-4789-b882-40ee22172431" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaTIF.FreyjaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="5a7959d7-10c3-4789-b882-40ee22172431" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -1403,6 +1435,38 @@
                             <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaTIF.VisenyaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="3de69982-2571-4c10-8bf9-ec165a9bc768" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaTIF.VisenyaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="3de69982-2571-4c10-8bf9-ec165a9bc768" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaTIF.AeylaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="37397a4a-da3f-4275-9a48-1b731051dbc9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaTIF.AeylaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="37397a4a-da3f-4275-9a48-1b731051dbc9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaTIF.RenaesaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="444fe5ae-9deb-4400-9492-61feeea5cc42" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaTIF.RenaesaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="444fe5ae-9deb-4400-9492-61feeea5cc42" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaTIF.FreyjaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="5a7959d7-10c3-4789-b882-40ee22172431" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaTIF.FreyjaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="5a7959d7-10c3-4789-b882-40ee22172431" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -2078,6 +2142,38 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaTIF.VisenyaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="3de69982-2571-4c10-8bf9-ec165a9bc768" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaTIF.VisenyaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="3de69982-2571-4c10-8bf9-ec165a9bc768" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaTIF.AeylaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="37397a4a-da3f-4275-9a48-1b731051dbc9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaTIF.AeylaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="37397a4a-da3f-4275-9a48-1b731051dbc9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaTIF.RenaesaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="444fe5ae-9deb-4400-9492-61feeea5cc42" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaTIF.RenaesaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="444fe5ae-9deb-4400-9492-61feeea5cc42" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaTIF.FreyjaTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="5a7959d7-10c3-4789-b882-40ee22172431" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaTIF.FreyjaTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="5a7959d7-10c3-4789-b882-40ee22172431" />
                             </node>
 						</children>
 					</node>
@@ -4244,6 +4340,31 @@
                             <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
                             </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorTIF.AerymorTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="614d1721-3f30-4750-8bef-c950697f32b2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorTIF.AerymorTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="614d1721-3f30-4750-8bef-c950697f32b2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronTIF.AeronTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="2ba79d8d-fa94-4a45-992b-564e20ccec51" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronTIF.AeronTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2ba79d8d-fa94-4a45-992b-564e20ccec51" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarTIF.VahaelarTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="7b04da4b-dd33-4a14-ba76-ab45593c980b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarTIF.VahaelarTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="7b04da4b-dd33-4a14-ba76-ab45593c980b" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -4793,6 +4914,31 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
+                            </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorTIF.AerymorTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="614d1721-3f30-4750-8bef-c950697f32b2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorTIF.AerymorTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="614d1721-3f30-4750-8bef-c950697f32b2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronTIF.AeronTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="2ba79d8d-fa94-4a45-992b-564e20ccec51" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronTIF.AeronTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2ba79d8d-fa94-4a45-992b-564e20ccec51" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarTIF.VahaelarTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="7b04da4b-dd33-4a14-ba76-ab45593c980b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarTIF.VahaelarTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="7b04da4b-dd33-4a14-ba76-ab45593c980b" />
                             </node>
 						</children>
 					</node>
@@ -5394,6 +5540,31 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_M_Kael.TIF_M_Kael_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="079d134f-b0d0-44fb-a952-950feb22b609" />
+                            </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorTIF.AerymorTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="614d1721-3f30-4750-8bef-c950697f32b2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorTIF.AerymorTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="614d1721-3f30-4750-8bef-c950697f32b2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronTIF.AeronTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="2ba79d8d-fa94-4a45-992b-564e20ccec51" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronTIF.AeronTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2ba79d8d-fa94-4a45-992b-564e20ccec51" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarTIF.VahaelarTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="7b04da4b-dd33-4a14-ba76-ab45593c980b" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarTIF.VahaelarTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="7b04da4b-dd33-4a14-ba76-ab45593c980b" />
                             </node>
 						</children>
 					</node>

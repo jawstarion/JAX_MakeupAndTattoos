@@ -956,6 +956,47 @@
                             <attribute id="MapKey" type="FixedString" value="HEL_F_Minerva.HEL_F_Minerva_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="21a8d6ec-88b4-4498-9329-709c6281ae44" />
                             </node>
+                <!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaELF.VisenyaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a58b499c-8b72-4740-a1ab-fa6be3c694c2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaELF.VisenyaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a58b499c-8b72-4740-a1ab-fa6be3c694c2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaELF.AeylaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="b8aecce2-043c-42fb-ac77-860c5dbe286e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaELF.AeylaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="b8aecce2-043c-42fb-ac77-860c5dbe286e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GwenELF.GwenELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="5b5879d2-a2de-407c-8c6e-a80bbd73b701" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GwenELF.GwenELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="5b5879d2-a2de-407c-8c6e-a80bbd73b701" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaELF.RenaesaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="eca51822-ccc9-4c19-bb9a-d4c8a1eb48eb" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaELF.RenaesaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="eca51822-ccc9-4c19-bb9a-d4c8a1eb48eb" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaELF.FreyjaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="306dbcff-946c-49ef-ad56-280466b64c18" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaELF.FreyjaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="306dbcff-946c-49ef-ad56-280466b64c18" />
+                            </node>
                             </children>
                         </node>
 						<node id="Slots">
@@ -1905,6 +1946,47 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HEL_F_Minerva.HEL_F_Minerva_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="21a8d6ec-88b4-4498-9329-709c6281ae44" />
+                            </node>
+                <!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaELF.VisenyaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a58b499c-8b72-4740-a1ab-fa6be3c694c2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VisenyaELF.VisenyaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a58b499c-8b72-4740-a1ab-fa6be3c694c2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaELF.AeylaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="b8aecce2-043c-42fb-ac77-860c5dbe286e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeylaELF.AeylaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="b8aecce2-043c-42fb-ac77-860c5dbe286e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GwenELF.GwenELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="5b5879d2-a2de-407c-8c6e-a80bbd73b701" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GwenELF.GwenELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="5b5879d2-a2de-407c-8c6e-a80bbd73b701" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaELF.RenaesaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="eca51822-ccc9-4c19-bb9a-d4c8a1eb48eb" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RenaesaELF.RenaesaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="eca51822-ccc9-4c19-bb9a-d4c8a1eb48eb" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaELF.FreyjaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="306dbcff-946c-49ef-ad56-280466b64c18" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FreyjaELF.FreyjaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="306dbcff-946c-49ef-ad56-280466b64c18" />
                             </node>
                             </children>
                         </node>
@@ -4108,6 +4190,31 @@
                             <attribute id="MapKey" type="FixedString" value="ELF_M_Head_F1.ELF_M_Head_F1_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="864ca4bd-b242-4614-bbdf-d46e92292757" />
                             </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELF.AerymorELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="64cb30e2-d4fe-4c10-8658-d75fc7f61404" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELF.AerymorELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="64cb30e2-d4fe-4c10-8658-d75fc7f61404" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronELF.AeronELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f93186db-9481-4d95-85ff-c72f08441e77" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronELF.AeronELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f93186db-9481-4d95-85ff-c72f08441e77" />
+                            </node>    
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarELF.VahaelarELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f2c815b2-4d75-4bb3-b3fd-3c735bb17951" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarELF.VahaelarELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f2c815b2-4d75-4bb3-b3fd-3c735bb17951" />
+                            </node>         
 						</children>
 					</node>
 						<node id="Slots">
@@ -5042,6 +5149,31 @@
                             <attribute id="MapKey" type="FixedString" value="Vamir.Vamir_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="4325fd00-cd8b-4ede-b9a5-ac5e3e491adc" />
                             </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELF.AerymorELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="64cb30e2-d4fe-4c10-8658-d75fc7f61404" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELF.AerymorELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="64cb30e2-d4fe-4c10-8658-d75fc7f61404" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronELF.AeronELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f93186db-9481-4d95-85ff-c72f08441e77" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AeronELF.AeronELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f93186db-9481-4d95-85ff-c72f08441e77" />
+                            </node>    
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarELF.VahaelarELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f2c815b2-4d75-4bb3-b3fd-3c735bb17951" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="VahaelarELF.VahaelarELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f2c815b2-4d75-4bb3-b3fd-3c735bb17951" />
+                            </node>         
 						</children>
 					</node>
 						<node id="Slots">
@@ -5654,6 +5786,15 @@
                             <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
                             </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELFStrong.AerymorELFStrong_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f6ffe7aa-365a-4419-ad2e-98e3c8c2ca70" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELFStrong.AerymorELFStrong_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f6ffe7aa-365a-4419-ad2e-98e3c8c2ca70" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -6238,6 +6379,15 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="ELF_MS_Dorian.ELF_MS_Dorian_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="d6356b5b-3053-4b99-b922-8726dc592042" />
+                            </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELFStrong.AerymorELFStrong_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f6ffe7aa-365a-4419-ad2e-98e3c8c2ca70" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AerymorELFStrong.AerymorELFStrong_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f6ffe7aa-365a-4419-ad2e-98e3c8c2ca70" />
                             </node>
 						</children>
 					</node>
