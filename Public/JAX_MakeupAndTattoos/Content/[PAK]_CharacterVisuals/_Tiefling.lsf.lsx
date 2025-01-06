@@ -682,6 +682,23 @@
                             <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
                             </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DawnTIF.DawnTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="77129779-91a8-4408-bba1-6355cb2210d1" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DawnTIF.DawnTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="77129779-91a8-4408-bba1-6355cb2210d1" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -1369,6 +1386,23 @@
                             <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
                             </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DawnTIF.DawnTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="77129779-91a8-4408-bba1-6355cb2210d1" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DawnTIF.DawnTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="77129779-91a8-4408-bba1-6355cb2210d1" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -2027,6 +2061,23 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="TIF_F_Minerva.TIF_F_Minerva_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="c6d7b7e6-87af-4bb1-a7a6-378002dd72f9" />
+                            </node>
+				<!-- Mantis -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DawnTIF.DawnTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="77129779-91a8-4408-bba1-6355cb2210d1" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DawnTIF.DawnTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="77129779-91a8-4408-bba1-6355cb2210d1" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LorelaiTIF.LorelaiTIF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c418261b-4748-4fcb-b87a-4ce35b12d295" />
                             </node>
 						</children>
 					</node>
