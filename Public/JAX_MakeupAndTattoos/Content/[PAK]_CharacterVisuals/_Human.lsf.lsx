@@ -934,6 +934,54 @@
                             <attribute id="MapKey" type="FixedString" value="FreyjaHUM.FreyjaHUM_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="4ef21370-38e1-486c-be22-e388e13a6fee" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AelysHUMA.AelysHUMA_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f56c4a5e-f93b-48d0-a3e9-bde6d15090fa" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AelysHUMA.AelysHUMA_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f56c4a5e-f93b-48d0-a3e9-bde6d15090fa" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AelysHUMB.AelysHUMB_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="4269f17e-20cb-464c-89ea-6f5ceef4a4bb" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="AelysHUMB.AelysHUMB_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="4269f17e-20cb-464c-89ea-6f5ceef4a4bb" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DaenaHUMA.DaenaHUMA_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="7b1f8ab4-3d4c-4783-9160-288ccfd0021a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DaenaHUMA.DaenaHUMA_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="7b1f8ab4-3d4c-4783-9160-288ccfd0021a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DaenaHUMB.DaenaHUMB_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="70406e72-6ff7-4154-975e-8e4083fc47b4" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="DaenaHUMB.DaenaHUMB_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="70406e72-6ff7-4154-975e-8e4083fc47b4" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ShieraHUMA.ShieraHUMA_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="016b4f53-7ef0-4fb9-b5cb-9c0899689368" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ShieraHUMA.ShieraHUMA_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="016b4f53-7ef0-4fb9-b5cb-9c0899689368" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ShieraHUMB.ShieraHUMB_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="afa15f94-2358-441a-877e-69f1fc548b07" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ShieraHUMB.ShieraHUMB_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="afa15f94-2358-441a-877e-69f1fc548b07" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -2387,7 +2435,47 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="VahaelarHUM.VahaelarHUM_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="9bd7d3e9-6f53-4c0b-92d1-3c95200801cb" />
-                            </node>         
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RavenHUMA.RavenHUMA_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="25cea6f4-00b9-49e6-9a74-25fd6d552ba9" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RavenHUMA.RavenHUMA_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="25cea6f4-00b9-49e6-9a74-25fd6d552ba9" />
+                            </node>   
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RavenHUMEB.RavenHUMEB_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="f6d6793b-2679-4598-a22d-072020e6e442" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RavenHUMEB.RavenHUMEB_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="f6d6793b-2679-4598-a22d-072020e6e442" />
+                            </node>   
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="EdricHUMA.EdricHUMA_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ad415ae9-2bb2-41e7-97e8-8ee69093fd7a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="EdricHUMA.EdricHUMA_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ad415ae9-2bb2-41e7-97e8-8ee69093fd7a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="EdricHUMB.EdricHUMB_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="3a6853c0-22d7-43f1-85e2-fd04180ae73a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="EdricHUMB.EdricHUMB_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="3a6853c0-22d7-43f1-85e2-fd04180ae73a" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RhaegelHUM.RhaegelHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="1a85b7ef-3d0a-4fba-b601-a647a1858267" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="RhaegelHUM.RhaegelHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1a85b7ef-3d0a-4fba-b601-a647a1858267" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
