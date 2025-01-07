@@ -1069,6 +1069,54 @@
                             <attribute id="MapKey" type="FixedString" value="ShieraELFB.ShieraELFB_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="38635cee-6f72-4fe9-9b55-b2f3f2421d91" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELF.BonnibelELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="1ef95e93-8f11-47df-b657-1a17714fc3af" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELF.BonnibelELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1ef95e93-8f11-47df-b657-1a17714fc3af" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELFALT.BonnibelELFALT_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="9e0530aa-8f07-4bc2-972b-f153efa1f28d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELFALT.BonnibelELFALT_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="9e0530aa-8f07-4bc2-972b-f153efa1f28d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FaezelELF.FaezelELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ba6b4159-2f97-4fae-bae9-6f9dc6af4a73" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FaezelELF.FaezelELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ba6b4159-2f97-4fae-bae9-6f9dc6af4a73" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LagerthaELF.LagerthaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="b3efd7ef-8b79-41ef-beb6-92333c649e6c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LagerthaELF.LagerthaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="b3efd7ef-8b79-41ef-beb6-92333c649e6c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PadmeELF.PadmeELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="bcab07f3-357c-4f78-94a0-7ce7d012510c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PadmeELF.PadmeELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="bcab07f3-357c-4f78-94a0-7ce7d012510c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="YenELF.YenELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a7d6ee03-ea3e-40ee-b5d3-c20f9114c845" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="YenELF.YenELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a7d6ee03-ea3e-40ee-b5d3-c20f9114c845" />
+                            </node>
                             </children>
                         </node>
 						<node id="Slots">
@@ -2124,6 +2172,54 @@
                             <attribute id="MapKey" type="FixedString" value="ShieraELFB.ShieraELFB_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="38635cee-6f72-4fe9-9b55-b2f3f2421d91" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELF.BonnibelELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="1ef95e93-8f11-47df-b657-1a17714fc3af" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELF.BonnibelELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1ef95e93-8f11-47df-b657-1a17714fc3af" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELFALT.BonnibelELFALT_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="9e0530aa-8f07-4bc2-972b-f153efa1f28d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELFALT.BonnibelELFALT_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="9e0530aa-8f07-4bc2-972b-f153efa1f28d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FaezelELF.FaezelELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ba6b4159-2f97-4fae-bae9-6f9dc6af4a73" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FaezelELF.FaezelELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ba6b4159-2f97-4fae-bae9-6f9dc6af4a73" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LagerthaELF.LagerthaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="b3efd7ef-8b79-41ef-beb6-92333c649e6c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LagerthaELF.LagerthaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="b3efd7ef-8b79-41ef-beb6-92333c649e6c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PadmeELF.PadmeELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="bcab07f3-357c-4f78-94a0-7ce7d012510c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PadmeELF.PadmeELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="bcab07f3-357c-4f78-94a0-7ce7d012510c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="YenELF.YenELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a7d6ee03-ea3e-40ee-b5d3-c20f9114c845" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="YenELF.YenELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a7d6ee03-ea3e-40ee-b5d3-c20f9114c845" />
+                            </node>
                             </children>
                         </node>
 						<node id="Slots">
@@ -3052,6 +3148,54 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="ShieraELFB.ShieraELFB_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="38635cee-6f72-4fe9-9b55-b2f3f2421d91" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELF.BonnibelELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="1ef95e93-8f11-47df-b657-1a17714fc3af" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELF.BonnibelELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1ef95e93-8f11-47df-b657-1a17714fc3af" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELFALT.BonnibelELFALT_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="9e0530aa-8f07-4bc2-972b-f153efa1f28d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="BonnibelELFALT.BonnibelELFALT_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="9e0530aa-8f07-4bc2-972b-f153efa1f28d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FaezelELF.FaezelELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="ba6b4159-2f97-4fae-bae9-6f9dc6af4a73" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="FaezelELF.FaezelELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="ba6b4159-2f97-4fae-bae9-6f9dc6af4a73" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LagerthaELF.LagerthaELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="b3efd7ef-8b79-41ef-beb6-92333c649e6c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="LagerthaELF.LagerthaELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="b3efd7ef-8b79-41ef-beb6-92333c649e6c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PadmeELF.PadmeELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="bcab07f3-357c-4f78-94a0-7ce7d012510c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="PadmeELF.PadmeELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="bcab07f3-357c-4f78-94a0-7ce7d012510c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="YenELF.YenELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a7d6ee03-ea3e-40ee-b5d3-c20f9114c845" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="YenELF.YenELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="a7d6ee03-ea3e-40ee-b5d3-c20f9114c845" />
                             </node>
                             </children>
                         </node>
