@@ -1197,6 +1197,22 @@
                             <attribute id="MapKey" type="FixedString" value="CerseiELF.CerseiELF_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="b1698029-d0cc-4520-aa14-63de87617122" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArwenELF.ArwenELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="2797e1be-b99c-4203-b585-97f04e27994f" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArwenELF.ArwenELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2797e1be-b99c-4203-b585-97f04e27994f" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GaladrielELF.GaladrielELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="0ebc2de7-79c5-407e-b87b-250e44dd77ff" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GaladrielELF.GaladrielELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="0ebc2de7-79c5-407e-b87b-250e44dd77ff" />
+                            </node>
                             </children>
                         </node>
 						<node id="Slots">
@@ -2419,6 +2435,22 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="CerseiELF.CerseiELF_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="b1698029-d0cc-4520-aa14-63de87617122" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArwenELF.ArwenELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="2797e1be-b99c-4203-b585-97f04e27994f" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArwenELF.ArwenELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2797e1be-b99c-4203-b585-97f04e27994f" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GaladrielELF.GaladrielELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="0ebc2de7-79c5-407e-b87b-250e44dd77ff" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GaladrielELF.GaladrielELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="0ebc2de7-79c5-407e-b87b-250e44dd77ff" />
                             </node>
                             </children>
                         </node>
@@ -4773,6 +4805,14 @@
                             <attribute id="MapKey" type="FixedString" value="JonELF.JonELF_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="31014d92-8ac1-4d66-9785-7229472a975e" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ThranduilELF.ThranduilELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="3e5bd973-8fa5-4e0d-86db-acf1b8751462" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ThranduilELF.ThranduilELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="3e5bd973-8fa5-4e0d-86db-acf1b8751462" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -5859,6 +5899,14 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="JonELF.JonELF_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="31014d92-8ac1-4d66-9785-7229472a975e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ThranduilELF.ThranduilELF_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="3e5bd973-8fa5-4e0d-86db-acf1b8751462" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ThranduilELF.ThranduilELF_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="3e5bd973-8fa5-4e0d-86db-acf1b8751462" />
                             </node>
 						</children>
 					</node>

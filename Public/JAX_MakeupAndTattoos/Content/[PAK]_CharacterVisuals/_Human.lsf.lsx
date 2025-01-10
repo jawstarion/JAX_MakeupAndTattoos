@@ -1102,6 +1102,22 @@
                             <attribute id="MapKey" type="FixedString" value="CerseiHUM.CerseiHUM_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="85eafbd1-efdf-41b6-8a3e-f5584f213d70" />
                             </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArwenHUM.ArwenHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="68e9840f-c7c8-43a9-8f47-a55762623283" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ArwenHUM.ArwenHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="68e9840f-c7c8-43a9-8f47-a55762623283" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GaladrielHUM.GaladrielHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="91d4ccbe-3daf-4265-bad9-7b58ddf0f1af" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GaladrielHUM.GaladrielHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="91d4ccbe-3daf-4265-bad9-7b58ddf0f1af" />
+                            </node>
 						</children>
 					</node>
 						<node id="Slots">
@@ -2651,6 +2667,14 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="JonHUM.JonHUM_Ears_Mesh.3" />
                             <attribute id="MapValue" type="FixedString" value="8b3d9dbe-9f14-468f-8e0d-7971460d3929" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ThranduilHUM.ThranduilHUM_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="0dca71d7-5952-4cf0-8b0c-89ca82aa51d6" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ThranduilHUM.ThranduilHUM_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="0dca71d7-5952-4cf0-8b0c-89ca82aa51d6" />
                             </node>
 						</children>
 					</node>
