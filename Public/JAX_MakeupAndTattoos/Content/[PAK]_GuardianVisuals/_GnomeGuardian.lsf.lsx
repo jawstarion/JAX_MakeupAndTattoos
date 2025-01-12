@@ -228,7 +228,242 @@
 								</node>
 							</children>
 						</node>
-						<node id="RealMaterialOverrides" />
+                        <node id="RealMaterialOverrides">
+                            <children>
+				<!-- Head A -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="642eaf27-6ada-4a55-85c3-cd315abf724b" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="642eaf27-6ada-4a55-85c3-cd315abf724b" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="b191f015-a860-4d84-85ad-95ea233398f7" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="b191f015-a860-4d84-85ad-95ea233398f7" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="a3f10e26-9463-4434-a647-b746f94b9a4d" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="a3f10e26-9463-4434-a647-b746f94b9a4d" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="a3f10e26-9463-4434-a647-b746f94b9a4d" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="a3f10e26-9463-4434-a647-b746f94b9a4d" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="4f8a8158-27de-4ea9-9a5a-e18c85cff124" />
+                            </node>
+				<!-- Head B -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="c88a4935-abdb-414f-962e-79edafe29ef1" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="c88a4935-abdb-414f-962e-79edafe29ef1" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="5899313f-17b7-440c-a2fa-f51ecc9847b7" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="5899313f-17b7-440c-a2fa-f51ecc9847b7" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="3adeb569-9c4e-455e-8fed-aad1ef418d59" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="3adeb569-9c4e-455e-8fed-aad1ef418d59" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="3adeb569-9c4e-455e-8fed-aad1ef418d59" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="3adeb569-9c4e-455e-8fed-aad1ef418d59" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_B.GNO_F_NKD_Head_B_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="ff0bb59b-f0c4-4b75-ad3c-4de59e2848b0" />
+                            </node>
+				<!-- Head C -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="1d4266eb-37f2-40fc-8843-2b5b6ece4cda" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="1d4266eb-37f2-40fc-8843-2b5b6ece4cda" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="dd8ea71a-816c-4fdd-879c-b5243eaebce7" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="dd8ea71a-816c-4fdd-879c-b5243eaebce7" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="8307f100-f1b2-440f-85b5-9f65b496f974" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="8307f100-f1b2-440f-85b5-9f65b496f974" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="8307f100-f1b2-440f-85b5-9f65b496f974" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="8307f100-f1b2-440f-85b5-9f65b496f974" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_C.GNO_F_NKD_Head_C_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="1b943f33-c6e5-414b-b14e-ceff5c24de68" />
+                            </node>
+				<!-- Head D -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="9ba3b434-1a62-4bd2-8603-03f81dcef460" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="9ba3b434-1a62-4bd2-8603-03f81dcef460" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="c4fb2fb3-0a54-4f67-92b3-13fca2804c70" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="c4fb2fb3-0a54-4f67-92b3-13fca2804c70" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="3491891f-0008-473c-966d-8d2eba14142e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="3491891f-0008-473c-966d-8d2eba14142e" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="3491891f-0008-473c-966d-8d2eba14142e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="3491891f-0008-473c-966d-8d2eba14142e" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_D.GNO_F_NKD_Head_D_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="f9102edc-f0ae-47ac-8333-cb3a741ae3c0" />
+                            </node>
+				<!-- Head E -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="49503661-3b70-4e71-9081-cbf7e520a503" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="49503661-3b70-4e71-9081-cbf7e520a503" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="923ee0c5-2c09-444a-8873-07cc7d516ba6" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="923ee0c5-2c09-444a-8873-07cc7d516ba6" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="93cb6763-344c-4292-9fb0-8eeb080b0948" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="93cb6763-344c-4292-9fb0-8eeb080b0948" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="93cb6763-344c-4292-9fb0-8eeb080b0948" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="93cb6763-344c-4292-9fb0-8eeb080b0948" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_E.GNO_F_NKD_Head_E_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="d4d19459-ce74-45bf-a57a-8e002e44a971" />
+                            </node>
+				<!-- Head F -->
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="94bd65d4-f665-45b7-a4ed-777c4b9b23a8" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="94bd65d4-f665-45b7-a4ed-777c4b9b23a8" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="8fbad742-bcd1-4a94-870b-e015573a75a0" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="8fbad742-bcd1-4a94-870b-e015573a75a0" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="b4179d8f-4b6f-41b5-ad71-370c005fedd2" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="b4179d8f-4b6f-41b5-ad71-370c005fedd2" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="b4179d8f-4b6f-41b5-ad71-370c005fedd2" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="b4179d8f-4b6f-41b5-ad71-370c005fedd2" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_F.GNO_F_NKD_Head_F_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="48ae6c03-f793-41f3-a18c-7a95b1f673f9" />
+                            </node>
+			<!-- Modded-->
+				<!-- Toarie -->		
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="Opri.Opri_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="Opri.Opri_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="2eb50632-6939-4af4-9032-ee3f9726c845" />
+                            </node>
+                        </children>
+                        </node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
