@@ -189,14 +189,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -228,14 +228,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -267,14 +267,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -306,14 +306,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -345,14 +345,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -384,14 +384,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -423,14 +423,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -462,14 +462,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -501,14 +501,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -540,14 +540,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -579,14 +579,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -618,14 +618,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -657,14 +657,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -960,14 +960,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -999,14 +999,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1038,14 +1038,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1077,14 +1077,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1116,14 +1116,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1155,14 +1155,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1194,14 +1194,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1233,14 +1233,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1272,14 +1272,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1311,14 +1311,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1350,14 +1350,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1389,14 +1389,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
@@ -1428,14 +1428,14 @@
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="TattooAtlas" />
-											<attribute id="Value" type="FixedString" value="3b879256-d3ba-40aa-8227-e86ac536d0fd" />
+											<attribute id="Value" type="FixedString" value="f95c2eac-973f-41e7-9947-8ac09bb7eb97" />
 										</node>
 										<node id="Texture2DParameters">
 											<attribute id="Color" type="bool" value="False" />
 											<attribute id="Custom" type="bool" value="False" />
 											<attribute id="Enabled" type="bool" value="True" />
 											<attribute id="Parameter" type="FixedString" value="MakeUpAtlas" />
-											<attribute id="Value" type="FixedString" value="6d291b38-0112-4e0b-b623-fefbd6bafde1" />
+											<attribute id="Value" type="FixedString" value="6fcbf693-5530-4d7e-95f5-c5b4df2e6569" />
 										</node>
 									</children>
 								</node>
