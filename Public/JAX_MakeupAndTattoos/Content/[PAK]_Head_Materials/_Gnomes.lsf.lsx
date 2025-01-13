@@ -8,7 +8,7 @@
             <!-- Head A -->
 				<node id="Resource"> Base
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="642eaf27-6ada-4a55-85c3-cd315abf724b" />
+					<attribute id="ID" type="FixedString" value="a8ac61c8-b639-ed30-1b5a-71e9ed2e377f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -752,7 +752,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="b191f015-a860-4d84-85ad-95ea233398f7" />
+					<attribute id="ID" type="FixedString" value="60b60388-379f-b8af-6663-39588822dde8" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_A_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -1378,7 +1378,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="a3f10e26-9463-4434-a647-b746f94b9a4d" />
+					<attribute id="ID" type="FixedString" value="0ca49285-f36d-2e4b-b811-1d4cfcab2694" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_A_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -1784,7 +1784,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="4f8a8158-27de-4ea9-9a5a-e18c85cff124" />
+					<attribute id="ID" type="FixedString" value="67179a0c-37fd-4e4f-ba33-90ad6671405a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_A_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -2088,7 +2088,7 @@
             <!-- Head B -->
 				<node id="Resource"> Base
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="c88a4935-abdb-414f-962e-79edafe29ef1" />
+					<attribute id="ID" type="FixedString" value="456370f6-d6bf-d89d-ecd0-5a5f09686354" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_B" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -2832,7 +2832,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="5899313f-17b7-440c-a2fa-f51ecc9847b7" />
+					<attribute id="ID" type="FixedString" value="11b5539a-743b-4278-06b4-ecc9c17de688" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_B_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -3458,7 +3458,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="3adeb569-9c4e-455e-8fed-aad1ef418d59" />
+					<attribute id="ID" type="FixedString" value="0fe09a94-f60c-611b-0a5f-32d136efb92a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_B_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -3864,7 +3864,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="ff0bb59b-f0c4-4b75-ad3c-4de59e2848b0" />
+					<attribute id="ID" type="FixedString" value="0571e541-2e79-062c-256c-13073d82d7af" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_B_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -4168,7 +4168,7 @@
             <!-- Head C -->
 				<node id="Resource"> Base 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="1d4266eb-37f2-40fc-8843-2b5b6ece4cda" />
+					<attribute id="ID" type="FixedString" value="8bfc2eee-5786-6a49-c383-b367f021715d" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_C" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -4912,7 +4912,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="dd8ea71a-816c-4fdd-879c-b5243eaebce7" />
+					<attribute id="ID" type="FixedString" value="df9419e1-781e-633f-450b-049f17976211" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_C_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -5538,7 +5538,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="8307f100-f1b2-440f-85b5-9f65b496f974" />
+					<attribute id="ID" type="FixedString" value="7c2adc9a-a5e5-6223-8a63-f20e3642486a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_C_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -5944,7 +5944,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="1b943f33-c6e5-414b-b14e-ceff5c24de68" />
+					<attribute id="ID" type="FixedString" value="a25d0e87-1091-fb2e-5587-4d37cf648d70" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_C_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -6248,7 +6248,7 @@
             <!-- Head D -->
 				<node id="Resource"> Base 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="9ba3b434-1a62-4bd2-8603-03f81dcef460" />
+					<attribute id="ID" type="FixedString" value="334d281b-5f67-ee17-a2d4-10db18f3c667" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_D" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -6992,7 +6992,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="c4fb2fb3-0a54-4f67-92b3-13fca2804c70" />
+					<attribute id="ID" type="FixedString" value="4ea2040f-48df-999e-2e96-2491e3dda835" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_D_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -7618,7 +7618,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="3491891f-0008-473c-966d-8d2eba14142e" />
+					<attribute id="ID" type="FixedString" value="6fb9be72-400d-3a43-8ec0-0140d2b1d670" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_D_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -8024,7 +8024,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="f9102edc-f0ae-47ac-8333-cb3a741ae3c0" />
+					<attribute id="ID" type="FixedString" value="60493686-3d83-fe60-4aff-da430a5f0d4c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_D_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -8328,7 +8328,7 @@
             <!-- Head E -->
 				<node id="Resource"> Base 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="49503661-3b70-4e71-9081-cbf7e520a503" />
+					<attribute id="ID" type="FixedString" value="15116395-3a29-a281-32b2-b02447c4b989" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_E" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -9072,7 +9072,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="923ee0c5-2c09-444a-8873-07cc7d516ba6" />
+					<attribute id="ID" type="FixedString" value="5589d7f2-c27b-54f3-b81c-913b28996b8e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_E_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -9698,7 +9698,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="93cb6763-344c-4292-9fb0-8eeb080b0948" />
+					<attribute id="ID" type="FixedString" value="c807ef9f-c1a9-f97f-9777-12d2c54fcf54" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_E_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -10104,7 +10104,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="d4d19459-ce74-45bf-a57a-8e002e44a971" />
+					<attribute id="ID" type="FixedString" value="a2db7cb8-0711-9d93-191f-de50bda53b27" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_E_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -10408,7 +10408,7 @@
             <!-- Head F -->
 				<node id="Resource"> Base 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="94bd65d4-f665-45b7-a4ed-777c4b9b23a8" />
+					<attribute id="ID" type="FixedString" value="d1742e97-4202-f507-97c5-78196abf2d9a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_F" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -11152,7 +11152,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="8fbad742-bcd1-4a94-870b-e015573a75a0" />
+					<attribute id="ID" type="FixedString" value="ff8f7f7f-7b9f-783e-3473-f3486d384f56" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_F_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -11778,7 +11778,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="b4179d8f-4b6f-41b5-ad71-370c005fedd2" />
+					<attribute id="ID" type="FixedString" value="ec52538d-6e21-6e24-7009-81e5c8ce728e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_F_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -12184,7 +12184,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="48ae6c03-f793-41f3-a18c-7a95b1f673f9" />
+					<attribute id="ID" type="FixedString" value="68ef8dc5-7732-c121-30ba-25d7dc781c1c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_F_NKD_Head_F_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -12490,7 +12490,7 @@
 			<!-- Head A -->
 				<node id="Resource"> Base
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="f8c8c723-8880-41fd-8bc3-94d59699e8c9" />
+					<attribute id="ID" type="FixedString" value="dd279652-8d4c-c8fe-5853-b9cfe41f2027" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -13234,7 +13234,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="d49b6205-c415-47d0-8334-357f07e463df" />
+					<attribute id="ID" type="FixedString" value="4f7b2e67-4972-4d1b-97db-b85b77c8a681" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_A_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -13860,7 +13860,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="ca55af21-9fc2-4521-bc6b-254f3c356be2" />
+					<attribute id="ID" type="FixedString" value="0f0d0b43-4f5b-eb67-dc6c-e229ee320504" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_A_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -14266,7 +14266,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="23ac57e7-18d8-4b75-8e80-c641134b73c6" />
+					<attribute id="ID" type="FixedString" value="7e791d0c-3231-8e26-22f4-12c521d9201e" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_A_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -14570,7 +14570,7 @@
 			<!-- Head B -->
 				<node id="Resource"> Base 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="239350c1-b152-4964-8468-dbe759f06568" />
+					<attribute id="ID" type="FixedString" value="a45df80d-ac7f-a35a-f3e2-420891a8a8ae" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_B" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -15314,7 +15314,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="ca839d68-108f-4875-95cd-bdd772e51291" />
+					<attribute id="ID" type="FixedString" value="18349584-ce9a-0856-d5fe-506b0680fd35" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_B_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -15940,7 +15940,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="04a74cd7-fac9-4870-8e4f-e1c0d64f8859" />
+					<attribute id="ID" type="FixedString" value="d4d3e56a-df65-fe50-59c1-58a328e02fa5" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_B_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -16346,7 +16346,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="5b95e70b-f21d-4b4c-8b4c-1275314bfbcc" />
+					<attribute id="ID" type="FixedString" value="e7ac9998-150a-e119-0104-746e43bd7833" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_B_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -16650,7 +16650,7 @@
 			<!-- Head C -->
 				<node id="Resource"> Base 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="ed087f20-1a1e-41bd-935e-c7eb7f8b86a5" />
+					<attribute id="ID" type="FixedString" value="7a6530f2-a097-70a2-e8ca-390cfa549db6" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_C" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -17394,7 +17394,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="5b558a9f-fc29-4716-944a-f412a0d18a10" />
+					<attribute id="ID" type="FixedString" value="307a7920-81d4-6970-fa8c-8d3d4153d550" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_C_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -18020,7 +18020,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="b793d6f9-36ca-46f8-90d4-507b72910343" />
+					<attribute id="ID" type="FixedString" value="73fda24f-db6f-cb77-fd51-a389a5e3bb0b" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_C_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -18426,7 +18426,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="90c61d0a-568f-41b7-9fad-d52247288f74" />
+					<attribute id="ID" type="FixedString" value="b15d130d-5ca5-575d-06cc-16fc557b3e1f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_C_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -18730,7 +18730,7 @@
 			<!-- Head D -->
 				<node id="Resource"> Base 
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="e5084a1d-6766-4dc5-8166-f6fdc24bfd1d" />
+					<attribute id="ID" type="FixedString" value="dbff0fef-1b2c-6947-8945-9a1822aeae07" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_D" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -19474,7 +19474,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="a2b753b2-85a5-4950-8382-1b677d55a804" />
+					<attribute id="ID" type="FixedString" value="b760b96d-c303-fd3d-1345-fa5f68ac06fa" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_D_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -20100,7 +20100,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="67996d32-7954-4963-b4e7-545a4fd6b1c9" />
+					<attribute id="ID" type="FixedString" value="c5dbfb83-729c-db36-fabc-0aa82028d574" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_D_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -20506,7 +20506,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="74b918e9-d1ad-474d-add7-ed565cddd398" />
+					<attribute id="ID" type="FixedString" value="21e9b2f9-aa29-132f-7268-5e0a86048b36" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_D_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -20810,7 +20810,7 @@
 			<!-- Head E -->
 				<node id="Resource"> Base
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="57666f39-d521-4a09-90ca-43d0cef889ab" />
+					<attribute id="ID" type="FixedString" value="932a9f0a-3ae3-4e27-bf95-80131b8e1c60" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_E" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -21554,7 +21554,7 @@
 				</node>
 				<node id="Resource"> LOD 1
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="e9c5c6f6-56e1-44f2-a0c5-95a38bd2fcb8" />
+					<attribute id="ID" type="FixedString" value="43006aea-b50a-38de-f1fe-af21f67e3179" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_E_LOD1" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -22180,7 +22180,7 @@
 				</node>
 				<node id="Resource"> LOD 2
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="c95fae50-b62a-47e2-9739-c2f604581227" />
+					<attribute id="ID" type="FixedString" value="61736a8e-8ea7-0536-84e8-29443caec828" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_E_LOD2" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
@@ -22586,7 +22586,7 @@
 				</node>
 				<node id="Resource"> LOD 4
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="1280233d-91ae-4c01-bc12-29c63ed3dcf9" />
+					<attribute id="ID" type="FixedString" value="4e07b830-176f-439e-35f4-a12aaabf8c8f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="GNO_M_NKD_Head_E_LOD4" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/JAX_Skin_Head_MakeupTattoo.lsf" />
