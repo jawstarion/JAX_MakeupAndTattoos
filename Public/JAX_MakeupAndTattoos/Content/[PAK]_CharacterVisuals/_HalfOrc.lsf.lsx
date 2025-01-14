@@ -205,224 +205,224 @@
                 <!-- Head A -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="f528bc81-bf20-42dc-879a-fac372d0d0ab" />
+							<attribute id="MapValue" type="FixedString" value="cec038c4-95ea-139e-fffa-bd1a3a37d2ff" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="f528bc81-bf20-42dc-879a-fac372d0d0ab" />
+                            <attribute id="MapValue" type="FixedString" value="cec038c4-95ea-139e-fffa-bd1a3a37d2ff" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="af842a05-9255-499e-9912-b20b17926a25" />
+							<attribute id="MapValue" type="FixedString" value="f5df74ec-c8b9-2e8f-9087-4d458f8af02f" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="af842a05-9255-499e-9912-b20b17926a25" />
+                            <attribute id="MapValue" type="FixedString" value="f5df74ec-c8b9-2e8f-9087-4d458f8af02f" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="e761eee2-7308-4609-bb23-0f0d0ca49a87" />
+							<attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="e761eee2-7308-4609-bb23-0f0d0ca49a87" />
+                            <attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="e761eee2-7308-4609-bb23-0f0d0ca49a87" />
+							<attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="e761eee2-7308-4609-bb23-0f0d0ca49a87" />
+                            <attribute id="MapValue" type="FixedString" value="cde059ec-d75e-f193-a94d-614d2aa36bba" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="7344a09c-600a-419e-a53a-2d99c486dc50" />
+                            <attribute id="MapValue" type="FixedString" value="39946c63-382b-c10a-a103-dd319fe8a6d4" />
                         </node>
                 <!-- Head B -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="5102a946-9895-492d-9489-cd250fdbb6a3" />
+							<attribute id="MapValue" type="FixedString" value="ee7ceb6b-ea48-0e86-764d-8dfbb907044b" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="5102a946-9895-492d-9489-cd250fdbb6a3" />
+                            <attribute id="MapValue" type="FixedString" value="ee7ceb6b-ea48-0e86-764d-8dfbb907044b" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="7cd26010-3e61-4821-81d2-a19736cc3c04" />
+							<attribute id="MapValue" type="FixedString" value="3a25f441-6ba2-4045-3c22-84b129fc5f79" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="7cd26010-3e61-4821-81d2-a19736cc3c04" />
+                            <attribute id="MapValue" type="FixedString" value="3a25f441-6ba2-4045-3c22-84b129fc5f79" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="65d0bb6b-7768-4e26-859f-94e9254f17d7" />
+							<attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="65d0bb6b-7768-4e26-859f-94e9254f17d7" />
+                            <attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="65d0bb6b-7768-4e26-859f-94e9254f17d7" />
+							<attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="65d0bb6b-7768-4e26-859f-94e9254f17d7" />
+                            <attribute id="MapValue" type="FixedString" value="18eb085d-1f5b-ed53-37bb-ac0388235f28" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_B.HRC_F_NKD_Head_B_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="e57581a6-eaeb-416e-8ccc-9260b21898c6" />
+                            <attribute id="MapValue" type="FixedString" value="93804e9d-7dd0-12b6-dd69-e9f6e3e1520d" />
                         </node>
                 <!-- Head C -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="1d7493cd-1b25-4b41-918f-213f0c891765" />
+							<attribute id="MapValue" type="FixedString" value="be7f794c-dbaa-9676-73d9-535f8026ecae" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="1d7493cd-1b25-4b41-918f-213f0c891765" />
+                            <attribute id="MapValue" type="FixedString" value="be7f794c-dbaa-9676-73d9-535f8026ecae" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="bfe87f03-b2af-42ed-8aef-53397599737b" />
+							<attribute id="MapValue" type="FixedString" value="3ff17088-0a44-870a-6990-03cf7a5eea33" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="bfe87f03-b2af-42ed-8aef-53397599737b" />
+                            <attribute id="MapValue" type="FixedString" value="3ff17088-0a44-870a-6990-03cf7a5eea33" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="5f46541a-4f32-4f81-85e6-c618049c5ccc" />
+							<attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="5f46541a-4f32-4f81-85e6-c618049c5ccc" />
+                            <attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="5f46541a-4f32-4f81-85e6-c618049c5ccc" />
+							<attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="5f46541a-4f32-4f81-85e6-c618049c5ccc" />
+                            <attribute id="MapValue" type="FixedString" value="12823a3e-c8c6-1cd1-5423-3ba7d1307a06" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_C.HRC_F_NKD_Head_C_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="9b9c7a08-a62e-41b4-befa-a19dd88c69e2" />
+                            <attribute id="MapValue" type="FixedString" value="a815f941-1b5d-ca87-6122-7452042d9dde" />
                         </node>
                 <!-- Head D -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="ddc0754d-20da-4b83-9b48-987af463eadd" />
+							<attribute id="MapValue" type="FixedString" value="4c4031f8-8b7e-5701-17d2-5ba14592d9ba" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="ddc0754d-20da-4b83-9b48-987af463eadd" />
+                            <attribute id="MapValue" type="FixedString" value="4c4031f8-8b7e-5701-17d2-5ba14592d9ba" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="599be985-28be-42de-b14e-da7d09c37d1f" />
+							<attribute id="MapValue" type="FixedString" value="bf998cd1-b3d5-f7cb-21b8-0b1576341078" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="599be985-28be-42de-b14e-da7d09c37d1f" />
+                            <attribute id="MapValue" type="FixedString" value="bf998cd1-b3d5-f7cb-21b8-0b1576341078" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="1e2bfc03-b4ad-4dda-90aa-845b5fc4e7be" />
+							<attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="1e2bfc03-b4ad-4dda-90aa-845b5fc4e7be" />
+                            <attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="1e2bfc03-b4ad-4dda-90aa-845b5fc4e7be" />
+							<attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="1e2bfc03-b4ad-4dda-90aa-845b5fc4e7be" />
+                            <attribute id="MapValue" type="FixedString" value="d0f28a39-a25c-e5a8-a7ab-d819ca88ff91" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_D.HRC_F_NKD_Head_D_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="91464ed9-a8e2-4c64-9162-9445c0109ce7" />
+                            <attribute id="MapValue" type="FixedString" value="90901286-93dd-8ca2-f95f-61433f2f4097" />
                         </node>
                 <!-- Head E -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="4af63ddb-3bf7-4152-b920-dd14c71ec748" />
+							<attribute id="MapValue" type="FixedString" value="bf00f623-d19a-ee36-3e55-0d21430301a9" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="4af63ddb-3bf7-4152-b920-dd14c71ec748" />
+                            <attribute id="MapValue" type="FixedString" value="bf00f623-d19a-ee36-3e55-0d21430301a9" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="069a2811-9f52-4f11-8f8d-c7036c2bbc7b" />
+							<attribute id="MapValue" type="FixedString" value="ba18a4f8-c27f-6983-842f-7746242161ee" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="069a2811-9f52-4f11-8f8d-c7036c2bbc7b" />
+                            <attribute id="MapValue" type="FixedString" value="ba18a4f8-c27f-6983-842f-7746242161ee" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="8f6752d0-5d02-45b9-bbbd-37c05105a712" />
+							<attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="8f6752d0-5d02-45b9-bbbd-37c05105a712" />
+                            <attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="8f6752d0-5d02-45b9-bbbd-37c05105a712" />
+							<attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="8f6752d0-5d02-45b9-bbbd-37c05105a712" />
+                            <attribute id="MapValue" type="FixedString" value="cfaa1be5-3a5f-d558-824d-74255201805f" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_E.HRC_F_NKD_Head_E_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="060fc085-8b45-4a73-81ba-0309c48b6715" />
+                            <attribute id="MapValue" type="FixedString" value="ace25a76-3c96-fa63-474d-06babac7d27d" />
                         </node>
                 <!-- Head F -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="d59111c4-8580-48a5-95ee-03eebb6ef3ad" />
+							<attribute id="MapValue" type="FixedString" value="712ed014-44af-b704-a747-d2699e876a8a" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="d59111c4-8580-48a5-95ee-03eebb6ef3ad" />
+                            <attribute id="MapValue" type="FixedString" value="712ed014-44af-b704-a747-d2699e876a8a" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="9f0d2710-d073-40b7-957f-14c1d8bf1a3a" />
+							<attribute id="MapValue" type="FixedString" value="d7a4e8e8-1575-ee62-13ef-7016c655fa91" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="9f0d2710-d073-40b7-957f-14c1d8bf1a3a" />
+                            <attribute id="MapValue" type="FixedString" value="d7a4e8e8-1575-ee62-13ef-7016c655fa91" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="5053b7a2-3007-4c1b-aabf-a4c44bc9a512" />
+							<attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="5053b7a2-3007-4c1b-aabf-a4c44bc9a512" />
+                            <attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="5053b7a2-3007-4c1b-aabf-a4c44bc9a512" />
+							<attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="5053b7a2-3007-4c1b-aabf-a4c44bc9a512" />
+                            <attribute id="MapValue" type="FixedString" value="42b8f9f2-b867-96a9-d7cd-90615048e43e" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_F.HRC_F_NKD_Head_F_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="1cdef4df-d433-4a43-8a26-57c70e7237ec" />
+                            <attribute id="MapValue" type="FixedString" value="8201c407-cd2b-7863-2964-e5a43d23be69" />
                         </node>
                             </children>
                             </node>
@@ -703,187 +703,187 @@
                 <!-- Head A -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="fab499bc-c7cf-47d1-a7df-cb41c59ca6bf" />
+							<attribute id="MapValue" type="FixedString" value="1181ac74-e857-0afb-da59-55b663b9b658" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="fab499bc-c7cf-47d1-a7df-cb41c59ca6bf" />
+                            <attribute id="MapValue" type="FixedString" value="1181ac74-e857-0afb-da59-55b663b9b658" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="894124ac-01a2-4cf5-830f-2765e9b6a30b" />
+							<attribute id="MapValue" type="FixedString" value="7607ce57-a6a1-a91a-40be-dfdcfa985369" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="894124ac-01a2-4cf5-830f-2765e9b6a30b" />
+                            <attribute id="MapValue" type="FixedString" value="7607ce57-a6a1-a91a-40be-dfdcfa985369" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="03faeab8-759c-4463-b4b9-2b84cbbee69c" />
+							<attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="03faeab8-759c-4463-b4b9-2b84cbbee69c" />
+                            <attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="03faeab8-759c-4463-b4b9-2b84cbbee69c" />
+							<attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="03faeab8-759c-4463-b4b9-2b84cbbee69c" />
+                            <attribute id="MapValue" type="FixedString" value="9edf4f23-12be-d9fe-5bf5-16db56bb2726" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="d3280a64-feab-41da-ae6c-945a0376a00a" />
+                            <attribute id="MapValue" type="FixedString" value="88100cec-d698-d01d-3160-9dec9c134508" />
                         </node>
                 <!-- Head B -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="0ad1c434-c6cd-4366-9e23-2bc873511290" />
+							<attribute id="MapValue" type="FixedString" value="620745f3-9215-cfa0-10e0-cee0bad44d19" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="0ad1c434-c6cd-4366-9e23-2bc873511290" />
+                            <attribute id="MapValue" type="FixedString" value="620745f3-9215-cfa0-10e0-cee0bad44d19" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="ce5d79d9-2738-4b3f-b2c3-cb14170c9b75" />
+							<attribute id="MapValue" type="FixedString" value="0960f419-285f-459f-c5a4-ec5906da201c" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="ce5d79d9-2738-4b3f-b2c3-cb14170c9b75" />
+                            <attribute id="MapValue" type="FixedString" value="0960f419-285f-459f-c5a4-ec5906da201c" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="4f8c2431-7556-4805-87c8-7ab5ca682219" />
+							<attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="4f8c2431-7556-4805-87c8-7ab5ca682219" />
+                            <attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="4f8c2431-7556-4805-87c8-7ab5ca682219" />
+							<attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="4f8c2431-7556-4805-87c8-7ab5ca682219" />
+                            <attribute id="MapValue" type="FixedString" value="3968183c-01e9-8715-afb1-242ca47fbba3" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_B.HRC_M_NKD_Head_B_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="8020cda7-2f27-464d-8b79-ae8a4d2402bb" />
+                            <attribute id="MapValue" type="FixedString" value="2ebcd7b0-e250-29f0-97cd-451f9dd2c995" />
                         </node>
                 <!-- Head C -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="48db13f0-9231-4c94-8470-898fa3f4b402" />
+							<attribute id="MapValue" type="FixedString" value="ab1269e2-7805-834b-1bed-5f5494dea7f4" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="48db13f0-9231-4c94-8470-898fa3f4b402" />
+                            <attribute id="MapValue" type="FixedString" value="ab1269e2-7805-834b-1bed-5f5494dea7f4" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="47585289-e9ef-4663-9dda-b10f828a165b" />
+							<attribute id="MapValue" type="FixedString" value="6f49d1a1-cf2c-19bb-ef99-13c0cc2530d8" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="47585289-e9ef-4663-9dda-b10f828a165b" />
+                            <attribute id="MapValue" type="FixedString" value="6f49d1a1-cf2c-19bb-ef99-13c0cc2530d8" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="8c589671-54ec-4a00-8d8d-87eb5bc998e3" />
+							<attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="8c589671-54ec-4a00-8d8d-87eb5bc998e3" />
+                            <attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="8c589671-54ec-4a00-8d8d-87eb5bc998e3" />
+							<attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="8c589671-54ec-4a00-8d8d-87eb5bc998e3" />
+                            <attribute id="MapValue" type="FixedString" value="691d8217-3ab0-e9ef-1fa9-330be9989a15" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_C.HRC_M_NKD_Head_C_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="053a4085-dfc4-4852-b8a2-16f322a00401" />
+                            <attribute id="MapValue" type="FixedString" value="46a5fd3f-2f5c-54a6-b476-0a1c817444e5" />
                         </node>
                 <!-- Head D -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="41e98160-0922-46d8-b520-f6a62b70e4b0" />
+							<attribute id="MapValue" type="FixedString" value="1c6efe94-ffb0-c374-f3ed-0f701c5db68b" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="41e98160-0922-46d8-b520-f6a62b70e4b0" />
+                            <attribute id="MapValue" type="FixedString" value="1c6efe94-ffb0-c374-f3ed-0f701c5db68b" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="bf37be4c-8078-4b08-8aea-d249cda9e601" />
+							<attribute id="MapValue" type="FixedString" value="ad8f0c0e-8e49-43e8-cf76-6ab8f7297cd1" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="bf37be4c-8078-4b08-8aea-d249cda9e601" />
+                            <attribute id="MapValue" type="FixedString" value="ad8f0c0e-8e49-43e8-cf76-6ab8f7297cd1" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="2ef8bb1a-e708-435a-aabf-8cd17a7cb4d1" />
+							<attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="2ef8bb1a-e708-435a-aabf-8cd17a7cb4d1" />
+                            <attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="2ef8bb1a-e708-435a-aabf-8cd17a7cb4d1" />
+							<attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="2ef8bb1a-e708-435a-aabf-8cd17a7cb4d1" />
+                            <attribute id="MapValue" type="FixedString" value="7c61f7fe-7108-2992-4e96-5f1ee570983e" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_D.HRC_M_NKD_Head_D_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="859d2e43-cff4-4ab1-a95b-4d874ede34d8" />
+                            <attribute id="MapValue" type="FixedString" value="9a417ab7-012b-4fcc-95ab-ea0e38c55c0a" />
                         </node>
                 <!-- Head E -->
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh.0" />
-							<attribute id="MapValue" type="FixedString" value="84cbe22d-26ab-4f87-a8db-e75a01c74875" />
+							<attribute id="MapValue" type="FixedString" value="8e0e901b-c969-24b1-de44-a8d5b7df3f9c" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh.3" />
-                            <attribute id="MapValue" type="FixedString" value="84cbe22d-26ab-4f87-a8db-e75a01c74875" />
+                            <attribute id="MapValue" type="FixedString" value="8e0e901b-c969-24b1-de44-a8d5b7df3f9c" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD1.8" />
-							<attribute id="MapValue" type="FixedString" value="0033adbd-74ec-422c-8b46-46ddb75e05c0" />
+							<attribute id="MapValue" type="FixedString" value="bb599149-dedd-a31b-cfc2-d61d0ea33fde" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh_LOD1.9" />
-                            <attribute id="MapValue" type="FixedString" value="0033adbd-74ec-422c-8b46-46ddb75e05c0" />
+                            <attribute id="MapValue" type="FixedString" value="bb599149-dedd-a31b-cfc2-d61d0ea33fde" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD2.11" />
-							<attribute id="MapValue" type="FixedString" value="380a67fc-763f-433a-aa34-7f12fd5968d8" />
+							<attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh_LOD2.12" />
-                            <attribute id="MapValue" type="FixedString" value="380a67fc-763f-433a-aa34-7f12fd5968d8" />
+                            <attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
                         </node>
                         <node id="Object">
 							<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD3.14" />
-							<attribute id="MapValue" type="FixedString" value="380a67fc-763f-433a-aa34-7f12fd5968d8" />
+							<attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Ears_Mesh_LOD3.15" />
-                            <attribute id="MapValue" type="FixedString" value="380a67fc-763f-433a-aa34-7f12fd5968d8" />
+                            <attribute id="MapValue" type="FixedString" value="a4e569d9-7b02-a033-fb2a-2ceec3c9892d" />
                         </node>
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_E.HRC_M_NKD_Head_E_Mesh_LOD4.16" />
-                            <attribute id="MapValue" type="FixedString" value="e7642c0c-1daf-4ee9-b86a-12b00f64d2c9" />
+                            <attribute id="MapValue" type="FixedString" value="090a08ab-09a5-6e66-568e-8bae6a812136" />
                         </node>
                             </children>
                             </node>
