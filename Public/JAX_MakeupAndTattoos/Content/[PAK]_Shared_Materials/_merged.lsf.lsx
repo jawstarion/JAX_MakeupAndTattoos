@@ -32,6 +32,20 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
+				<node id="Resource"> 
+					<attribute id="Name" type="LSString" value="More_DGB_Makeup" /> 
+					<attribute id="ID" type="FixedString" value="788d7cf0-f0ec-e521-aa95-0a7c7c9a1725" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/MakeupAndTattoos/More_DGB_Makeup.dds" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="8192" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>	
 			</children>
 		</node>
 	</region>
